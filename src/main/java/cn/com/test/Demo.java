@@ -6,5 +6,6 @@ public class Demo {
         System.out.println("master分支");
         System.out.println("新增test分支");
         System.out.println("aaaaaa");
+        System.out.println("bbbb");
     }
 }
